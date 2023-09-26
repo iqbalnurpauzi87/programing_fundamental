@@ -1,0 +1,9 @@
+C:\iqbal\UNBIN\dasar_dasar_pemprograman\tugas_3\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\iqbal\UNBIN\dasar_dasar_pemprograman\tugas_3\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\iqbal\UNBIN\dasar_dasar_pemprograman\tugas_3\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\iqbal\UNBIN\dasar_dasar_pemprograman\tugas_3\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\iqbal\UNBIN\dasar_dasar_pemprograman\tugas_3\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\iqbal\UNBIN\dasar_dasar_pemprograman\tugas_3\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\iqbal\UNBIN\dasar_dasar_pemprograman\tugas_3\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\iqbal\UNBIN\dasar_dasar_pemprograman\tugas_3\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\iqbal\UNBIN\dasar_dasar_pemprograman\tugas_3\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
