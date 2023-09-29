@@ -1,0 +1,9 @@
+C:\iqbal\UNBIN\dasar_dasar_pemprograman\tugas_3\PT3_T1\PT3_T1\bin\Debug\PT3_T1.exe
+C:\iqbal\UNBIN\dasar_dasar_pemprograman\tugas_3\PT3_T1\PT3_T1\bin\Debug\PT3_T1.pdb
+C:\iqbal\UNBIN\dasar_dasar_pemprograman\tugas_3\PT3_T1\PT3_T1\bin\Debug\PT3_T1.xml
+C:\iqbal\UNBIN\dasar_dasar_pemprograman\tugas_3\PT3_T1\PT3_T1\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\iqbal\UNBIN\dasar_dasar_pemprograman\tugas_3\PT3_T1\PT3_T1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\iqbal\UNBIN\dasar_dasar_pemprograman\tugas_3\PT3_T1\PT3_T1\obj\x86\Debug\PT3_T1.vbproj.GenerateResource.Cache
+C:\iqbal\UNBIN\dasar_dasar_pemprograman\tugas_3\PT3_T1\PT3_T1\obj\x86\Debug\PT3_T1.exe
+C:\iqbal\UNBIN\dasar_dasar_pemprograman\tugas_3\PT3_T1\PT3_T1\obj\x86\Debug\PT3_T1.xml
+C:\iqbal\UNBIN\dasar_dasar_pemprograman\tugas_3\PT3_T1\PT3_T1\obj\x86\Debug\PT3_T1.pdb
