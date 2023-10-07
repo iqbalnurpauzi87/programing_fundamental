@@ -1,0 +1,30 @@
+c:\users\anggra.tr\documents\visual studio 2010\Projects\PF_looping\PF_looping\bin\Debug\PF_looping.exe
+c:\users\anggra.tr\documents\visual studio 2010\Projects\PF_looping\PF_looping\bin\Debug\PF_looping.pdb
+c:\users\anggra.tr\documents\visual studio 2010\Projects\PF_looping\PF_looping\bin\Debug\PF_looping.xml
+c:\users\anggra.tr\documents\visual studio 2010\Projects\PF_looping\PF_looping\obj\x86\Debug\PF_looping.Form1.resources
+c:\users\anggra.tr\documents\visual studio 2010\Projects\PF_looping\PF_looping\obj\x86\Debug\PF_looping.Resources.resources
+c:\users\anggra.tr\documents\visual studio 2010\Projects\PF_looping\PF_looping\obj\x86\Debug\PF_looping.vbproj.GenerateResource.Cache
+c:\users\anggra.tr\documents\visual studio 2010\Projects\PF_looping\PF_looping\obj\x86\Debug\PF_looping.exe
+c:\users\anggra.tr\documents\visual studio 2010\Projects\PF_looping\PF_looping\obj\x86\Debug\PF_looping.xml
+c:\users\anggra.tr\documents\visual studio 2010\Projects\PF_looping\PF_looping\obj\x86\Debug\PF_looping.pdb
+c:\users\anggra.tr\documents\visual studio 2010\Projects\PF_looping\PF_looping\obj\x86\Debug\PF_looping.Form2.resources
+C:\iqbal\UNBIN\dasar_dasar_pemprograman\tugas 4\PF_looping\PF_looping\obj\x86\Debug\PF_looping.exe
+C:\iqbal\UNBIN\dasar_dasar_pemprograman\tugas 4\PF_looping\PF_looping\obj\x86\Debug\PF_looping.xml
+C:\iqbal\UNBIN\dasar_dasar_pemprograman\tugas 4\PF_looping\PF_looping\obj\x86\Debug\PF_looping.pdb
+C:\iqbal\UNBIN\dasar_dasar_pemprograman\tugas 4\PF_looping\PF_looping\bin\Debug\PF_looping.exe
+C:\iqbal\UNBIN\dasar_dasar_pemprograman\tugas 4\PF_looping\PF_looping\bin\Debug\PF_looping.pdb
+C:\iqbal\UNBIN\dasar_dasar_pemprograman\tugas 4\PF_looping\PF_looping\bin\Debug\PF_looping.xml
+C:\iqbal\UNBIN\dasar_dasar_pemprograman\tugas 4\PF_looping\PF_looping\obj\x86\Debug\PF_looping.Form1.resources
+C:\iqbal\UNBIN\dasar_dasar_pemprograman\tugas 4\PF_looping\PF_looping\obj\x86\Debug\PF_looping.Form2.resources
+C:\iqbal\UNBIN\dasar_dasar_pemprograman\tugas 4\PF_looping\PF_looping\obj\x86\Debug\PF_looping.Resources.resources
+C:\iqbal\UNBIN\dasar_dasar_pemprograman\tugas 4\PF_looping\PF_looping\obj\x86\Debug\PF_looping.vbproj.GenerateResource.Cache
+C:\iqbal\UNBIN\dasar_dasar_pemprograman\tugas_4\PF_looping\PF_looping\obj\x86\Debug\PF_looping.exe
+C:\iqbal\UNBIN\dasar_dasar_pemprograman\tugas_4\PF_looping\PF_looping\obj\x86\Debug\PF_looping.xml
+C:\iqbal\UNBIN\dasar_dasar_pemprograman\tugas_4\PF_looping\PF_looping\obj\x86\Debug\PF_looping.pdb
+C:\iqbal\UNBIN\dasar_dasar_pemprograman\tugas_4\PF_looping\PF_looping\bin\Debug\PF_looping.exe
+C:\iqbal\UNBIN\dasar_dasar_pemprograman\tugas_4\PF_looping\PF_looping\bin\Debug\PF_looping.pdb
+C:\iqbal\UNBIN\dasar_dasar_pemprograman\tugas_4\PF_looping\PF_looping\bin\Debug\PF_looping.xml
+C:\iqbal\UNBIN\dasar_dasar_pemprograman\tugas_4\PF_looping\PF_looping\obj\x86\Debug\PF_looping.Form1.resources
+C:\iqbal\UNBIN\dasar_dasar_pemprograman\tugas_4\PF_looping\PF_looping\obj\x86\Debug\PF_looping.Form2.resources
+C:\iqbal\UNBIN\dasar_dasar_pemprograman\tugas_4\PF_looping\PF_looping\obj\x86\Debug\PF_looping.Resources.resources
+C:\iqbal\UNBIN\dasar_dasar_pemprograman\tugas_4\PF_looping\PF_looping\obj\x86\Debug\PF_looping.vbproj.GenerateResource.Cache
