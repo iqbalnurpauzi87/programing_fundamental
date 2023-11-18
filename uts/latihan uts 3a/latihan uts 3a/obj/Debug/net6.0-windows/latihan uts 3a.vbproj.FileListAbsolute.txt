@@ -1,0 +1,16 @@
+C:\iqbal\UNBIN\semester 1\dasar_dasar_pemprograman\uts\latihan uts 3a\latihan uts 3a\obj\Debug\net6.0-windows\latihan_uts_3a.Form1.resources
+C:\iqbal\UNBIN\semester 1\dasar_dasar_pemprograman\uts\latihan uts 3a\latihan uts 3a\obj\Debug\net6.0-windows\latihan uts 3a.vbproj.GenerateResource.cache
+C:\iqbal\UNBIN\semester 1\dasar_dasar_pemprograman\uts\latihan uts 3a\latihan uts 3a\obj\Debug\net6.0-windows\latihan uts 3a.GeneratedMSBuildEditorConfig.editorconfig
+C:\iqbal\UNBIN\semester 1\dasar_dasar_pemprograman\uts\latihan uts 3a\latihan uts 3a\obj\Debug\net6.0-windows\latihan uts 3a.AssemblyInfoInputs.cache
+C:\iqbal\UNBIN\semester 1\dasar_dasar_pemprograman\uts\latihan uts 3a\latihan uts 3a\obj\Debug\net6.0-windows\latihan uts 3a.AssemblyInfo.vb
+C:\iqbal\UNBIN\semester 1\dasar_dasar_pemprograman\uts\latihan uts 3a\latihan uts 3a\obj\Debug\net6.0-windows\latihan uts 3a.vbproj.CoreCompileInputs.cache
+C:\iqbal\UNBIN\semester 1\dasar_dasar_pemprograman\uts\latihan uts 3a\latihan uts 3a\bin\Debug\net6.0-windows\latihan uts 3a.exe
+C:\iqbal\UNBIN\semester 1\dasar_dasar_pemprograman\uts\latihan uts 3a\latihan uts 3a\bin\Debug\net6.0-windows\latihan uts 3a.deps.json
+C:\iqbal\UNBIN\semester 1\dasar_dasar_pemprograman\uts\latihan uts 3a\latihan uts 3a\bin\Debug\net6.0-windows\latihan uts 3a.runtimeconfig.json
+C:\iqbal\UNBIN\semester 1\dasar_dasar_pemprograman\uts\latihan uts 3a\latihan uts 3a\bin\Debug\net6.0-windows\latihan uts 3a.dll
+C:\iqbal\UNBIN\semester 1\dasar_dasar_pemprograman\uts\latihan uts 3a\latihan uts 3a\bin\Debug\net6.0-windows\latihan uts 3a.pdb
+C:\iqbal\UNBIN\semester 1\dasar_dasar_pemprograman\uts\latihan uts 3a\latihan uts 3a\obj\Debug\net6.0-windows\latihan uts 3a.dll
+C:\iqbal\UNBIN\semester 1\dasar_dasar_pemprograman\uts\latihan uts 3a\latihan uts 3a\obj\Debug\net6.0-windows\refint\latihan uts 3a.dll
+C:\iqbal\UNBIN\semester 1\dasar_dasar_pemprograman\uts\latihan uts 3a\latihan uts 3a\obj\Debug\net6.0-windows\latihan uts 3a.pdb
+C:\iqbal\UNBIN\semester 1\dasar_dasar_pemprograman\uts\latihan uts 3a\latihan uts 3a\obj\Debug\net6.0-windows\latihan uts 3a.genruntimeconfig.cache
+C:\iqbal\UNBIN\semester 1\dasar_dasar_pemprograman\uts\latihan uts 3a\latihan uts 3a\obj\Debug\net6.0-windows\ref\latihan uts 3a.dll
