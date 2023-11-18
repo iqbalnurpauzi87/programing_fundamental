@@ -1,0 +1,16 @@
+C:\iqbal\UNBIN\semester 1\dasar_dasar_pemprograman\uts dasar pemprograman\pert 9\tugas pert 9\tugas pert 9\bin\Debug\net6.0-windows\tugas pert 9.exe
+C:\iqbal\UNBIN\semester 1\dasar_dasar_pemprograman\uts dasar pemprograman\pert 9\tugas pert 9\tugas pert 9\bin\Debug\net6.0-windows\tugas pert 9.deps.json
+C:\iqbal\UNBIN\semester 1\dasar_dasar_pemprograman\uts dasar pemprograman\pert 9\tugas pert 9\tugas pert 9\bin\Debug\net6.0-windows\tugas pert 9.runtimeconfig.json
+C:\iqbal\UNBIN\semester 1\dasar_dasar_pemprograman\uts dasar pemprograman\pert 9\tugas pert 9\tugas pert 9\bin\Debug\net6.0-windows\tugas pert 9.dll
+C:\iqbal\UNBIN\semester 1\dasar_dasar_pemprograman\uts dasar pemprograman\pert 9\tugas pert 9\tugas pert 9\bin\Debug\net6.0-windows\tugas pert 9.pdb
+C:\iqbal\UNBIN\semester 1\dasar_dasar_pemprograman\uts dasar pemprograman\pert 9\tugas pert 9\tugas pert 9\obj\Debug\net6.0-windows\tugas_pert_9.Form1.resources
+C:\iqbal\UNBIN\semester 1\dasar_dasar_pemprograman\uts dasar pemprograman\pert 9\tugas pert 9\tugas pert 9\obj\Debug\net6.0-windows\tugas pert 9.vbproj.GenerateResource.cache
+C:\iqbal\UNBIN\semester 1\dasar_dasar_pemprograman\uts dasar pemprograman\pert 9\tugas pert 9\tugas pert 9\obj\Debug\net6.0-windows\tugas pert 9.GeneratedMSBuildEditorConfig.editorconfig
+C:\iqbal\UNBIN\semester 1\dasar_dasar_pemprograman\uts dasar pemprograman\pert 9\tugas pert 9\tugas pert 9\obj\Debug\net6.0-windows\tugas pert 9.AssemblyInfoInputs.cache
+C:\iqbal\UNBIN\semester 1\dasar_dasar_pemprograman\uts dasar pemprograman\pert 9\tugas pert 9\tugas pert 9\obj\Debug\net6.0-windows\tugas pert 9.AssemblyInfo.vb
+C:\iqbal\UNBIN\semester 1\dasar_dasar_pemprograman\uts dasar pemprograman\pert 9\tugas pert 9\tugas pert 9\obj\Debug\net6.0-windows\tugas pert 9.vbproj.CoreCompileInputs.cache
+C:\iqbal\UNBIN\semester 1\dasar_dasar_pemprograman\uts dasar pemprograman\pert 9\tugas pert 9\tugas pert 9\obj\Debug\net6.0-windows\tugas pert 9.dll
+C:\iqbal\UNBIN\semester 1\dasar_dasar_pemprograman\uts dasar pemprograman\pert 9\tugas pert 9\tugas pert 9\obj\Debug\net6.0-windows\refint\tugas pert 9.dll
+C:\iqbal\UNBIN\semester 1\dasar_dasar_pemprograman\uts dasar pemprograman\pert 9\tugas pert 9\tugas pert 9\obj\Debug\net6.0-windows\tugas pert 9.pdb
+C:\iqbal\UNBIN\semester 1\dasar_dasar_pemprograman\uts dasar pemprograman\pert 9\tugas pert 9\tugas pert 9\obj\Debug\net6.0-windows\tugas pert 9.genruntimeconfig.cache
+C:\iqbal\UNBIN\semester 1\dasar_dasar_pemprograman\uts dasar pemprograman\pert 9\tugas pert 9\tugas pert 9\obj\Debug\net6.0-windows\ref\tugas pert 9.dll
