@@ -1,0 +1,34 @@
+C:\Users\LENOVO\Documents\AplikasiToko\AplikasiToko\bin\Debug\AplikasiToko.exe
+C:\Users\LENOVO\Documents\AplikasiToko\AplikasiToko\bin\Debug\AplikasiToko.pdb
+C:\Users\LENOVO\Documents\AplikasiToko\AplikasiToko\bin\Debug\AplikasiToko.xml
+C:\Users\LENOVO\Documents\AplikasiToko\AplikasiToko\obj\x86\Debug\AplikasiToko.Form1.resources
+C:\Users\LENOVO\Documents\AplikasiToko\AplikasiToko\obj\x86\Debug\AplikasiToko.Resources.resources
+C:\Users\LENOVO\Documents\AplikasiToko\AplikasiToko\obj\x86\Debug\AplikasiToko.vbproj.GenerateResource.Cache
+C:\Users\LENOVO\Documents\AplikasiToko\AplikasiToko\obj\x86\Debug\AplikasiToko.exe
+C:\Users\LENOVO\Documents\AplikasiToko\AplikasiToko\obj\x86\Debug\AplikasiToko.xml
+C:\Users\LENOVO\Documents\AplikasiToko\AplikasiToko\obj\x86\Debug\AplikasiToko.pdb
+C:\Users\LENOVO\Documents\AplikasiToko\AplikasiToko\obj\x86\Debug\AplikasiToko.Frm_About.resources
+C:\Users\Aspir\Downloads\AplikasiToko\AplikasiToko\bin\Debug\AplikasiToko.exe
+C:\Users\Aspir\Downloads\AplikasiToko\AplikasiToko\bin\Debug\AplikasiToko.pdb
+C:\Users\Aspir\Downloads\AplikasiToko\AplikasiToko\bin\Debug\AplikasiToko.xml
+C:\Users\Aspir\Downloads\AplikasiToko\AplikasiToko\obj\x86\Debug\AplikasiToko.Form1.resources
+C:\Users\Aspir\Downloads\AplikasiToko\AplikasiToko\obj\x86\Debug\AplikasiToko.Frm_About.resources
+C:\Users\Aspir\Downloads\AplikasiToko\AplikasiToko\obj\x86\Debug\AplikasiToko.Resources.resources
+C:\Users\Aspir\Downloads\AplikasiToko\AplikasiToko\obj\x86\Debug\AplikasiToko.vbproj.GenerateResource.cache
+C:\Users\Aspir\Downloads\AplikasiToko\AplikasiToko\obj\x86\Debug\AplikasiToko.exe
+C:\Users\Aspir\Downloads\AplikasiToko\AplikasiToko\obj\x86\Debug\AplikasiToko.xml
+C:\Users\Aspir\Downloads\AplikasiToko\AplikasiToko\obj\x86\Debug\AplikasiToko.pdb
+C:\Users\Aspir\Downloads\AplikasiToko\AplikasiToko\obj\x86\Debug\AplikasiToko.Form2.resources
+C:\iqbal\UNBIN\dasar_dasar_pemprograman\tugas_6\aplikasi toko 2\AplikasiToko\AplikasiToko\bin\Debug\AplikasiToko.exe
+C:\iqbal\UNBIN\dasar_dasar_pemprograman\tugas_6\aplikasi toko 2\AplikasiToko\AplikasiToko\bin\Debug\AplikasiToko.pdb
+C:\iqbal\UNBIN\dasar_dasar_pemprograman\tugas_6\aplikasi toko 2\AplikasiToko\AplikasiToko\bin\Debug\AplikasiToko.xml
+C:\iqbal\UNBIN\dasar_dasar_pemprograman\tugas_6\aplikasi toko 2\AplikasiToko\AplikasiToko\obj\x86\Debug\AplikasiToko.vbproj.AssemblyReference.cache
+C:\iqbal\UNBIN\dasar_dasar_pemprograman\tugas_6\aplikasi toko 2\AplikasiToko\AplikasiToko\obj\x86\Debug\AplikasiToko.Form1.resources
+C:\iqbal\UNBIN\dasar_dasar_pemprograman\tugas_6\aplikasi toko 2\AplikasiToko\AplikasiToko\obj\x86\Debug\AplikasiToko.Form2.resources
+C:\iqbal\UNBIN\dasar_dasar_pemprograman\tugas_6\aplikasi toko 2\AplikasiToko\AplikasiToko\obj\x86\Debug\AplikasiToko.Frm_About.resources
+C:\iqbal\UNBIN\dasar_dasar_pemprograman\tugas_6\aplikasi toko 2\AplikasiToko\AplikasiToko\obj\x86\Debug\AplikasiToko.Resources.resources
+C:\iqbal\UNBIN\dasar_dasar_pemprograman\tugas_6\aplikasi toko 2\AplikasiToko\AplikasiToko\obj\x86\Debug\AplikasiToko.vbproj.GenerateResource.cache
+C:\iqbal\UNBIN\dasar_dasar_pemprograman\tugas_6\aplikasi toko 2\AplikasiToko\AplikasiToko\obj\x86\Debug\AplikasiToko.vbproj.CoreCompileInputs.cache
+C:\iqbal\UNBIN\dasar_dasar_pemprograman\tugas_6\aplikasi toko 2\AplikasiToko\AplikasiToko\obj\x86\Debug\AplikasiToko.exe
+C:\iqbal\UNBIN\dasar_dasar_pemprograman\tugas_6\aplikasi toko 2\AplikasiToko\AplikasiToko\obj\x86\Debug\AplikasiToko.xml
+C:\iqbal\UNBIN\dasar_dasar_pemprograman\tugas_6\aplikasi toko 2\AplikasiToko\AplikasiToko\obj\x86\Debug\AplikasiToko.pdb
