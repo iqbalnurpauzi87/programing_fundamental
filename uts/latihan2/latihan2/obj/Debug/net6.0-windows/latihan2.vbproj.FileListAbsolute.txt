@@ -1,0 +1,16 @@
+C:\iqbal\UNBIN\semester 1\dasar_dasar_pemprograman\uts\latihan2\latihan2\obj\Debug\net6.0-windows\latihan2.Form1.resources
+C:\iqbal\UNBIN\semester 1\dasar_dasar_pemprograman\uts\latihan2\latihan2\obj\Debug\net6.0-windows\latihan2.vbproj.GenerateResource.cache
+C:\iqbal\UNBIN\semester 1\dasar_dasar_pemprograman\uts\latihan2\latihan2\obj\Debug\net6.0-windows\latihan2.GeneratedMSBuildEditorConfig.editorconfig
+C:\iqbal\UNBIN\semester 1\dasar_dasar_pemprograman\uts\latihan2\latihan2\obj\Debug\net6.0-windows\latihan2.AssemblyInfoInputs.cache
+C:\iqbal\UNBIN\semester 1\dasar_dasar_pemprograman\uts\latihan2\latihan2\obj\Debug\net6.0-windows\latihan2.AssemblyInfo.vb
+C:\iqbal\UNBIN\semester 1\dasar_dasar_pemprograman\uts\latihan2\latihan2\obj\Debug\net6.0-windows\latihan2.vbproj.CoreCompileInputs.cache
+C:\iqbal\UNBIN\semester 1\dasar_dasar_pemprograman\uts\latihan2\latihan2\bin\Debug\net6.0-windows\latihan2.exe
+C:\iqbal\UNBIN\semester 1\dasar_dasar_pemprograman\uts\latihan2\latihan2\bin\Debug\net6.0-windows\latihan2.deps.json
+C:\iqbal\UNBIN\semester 1\dasar_dasar_pemprograman\uts\latihan2\latihan2\bin\Debug\net6.0-windows\latihan2.runtimeconfig.json
+C:\iqbal\UNBIN\semester 1\dasar_dasar_pemprograman\uts\latihan2\latihan2\bin\Debug\net6.0-windows\latihan2.dll
+C:\iqbal\UNBIN\semester 1\dasar_dasar_pemprograman\uts\latihan2\latihan2\bin\Debug\net6.0-windows\latihan2.pdb
+C:\iqbal\UNBIN\semester 1\dasar_dasar_pemprograman\uts\latihan2\latihan2\obj\Debug\net6.0-windows\latihan2.dll
+C:\iqbal\UNBIN\semester 1\dasar_dasar_pemprograman\uts\latihan2\latihan2\obj\Debug\net6.0-windows\refint\latihan2.dll
+C:\iqbal\UNBIN\semester 1\dasar_dasar_pemprograman\uts\latihan2\latihan2\obj\Debug\net6.0-windows\latihan2.pdb
+C:\iqbal\UNBIN\semester 1\dasar_dasar_pemprograman\uts\latihan2\latihan2\obj\Debug\net6.0-windows\latihan2.genruntimeconfig.cache
+C:\iqbal\UNBIN\semester 1\dasar_dasar_pemprograman\uts\latihan2\latihan2\obj\Debug\net6.0-windows\ref\latihan2.dll
